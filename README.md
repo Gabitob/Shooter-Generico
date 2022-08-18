@@ -3,5 +3,5 @@
 - Código de cerca de 2 anos atrás.
 
 <div style="display: inline_block">
-  <img align="center" alt="ShooterGener" src="https://media.discordapp.net/attachments/1006720932477403200/1009715113252634704/Shooter.gif?width=350&height=500" >
+  <img align="center" alt="ShooterGener" src="https://media.discordapp.net/attachments/1006720932477403200/1009717074546933802/Shooter.gif?width=493&height=493" >
 </div>
